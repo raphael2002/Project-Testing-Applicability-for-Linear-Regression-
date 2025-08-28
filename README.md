@@ -3,6 +3,7 @@
 The popular TV show "Sole Survivor" drops participants alone into remote areas to test their survival skills. They are then given ratings based on areas such as physical fitness and mental toughness. 
 # Objective: 
 To determine the accuracy and validity of the survival scores assigned by specialists to contestants using linear regression analysis.
+Predicting next season's winners using the  sole survivor next dataset.
 # Dataset:
 The dataset contains the following columns:
 Name
@@ -36,4 +37,5 @@ SurvivalScore
 # Conclusion:
 Based on the linear regression analysis, it appears that the survival specialists are "not" scoring the contestants well. The low R-squared value suggests that the SurvivalScores are not consistent with the contestants' attributes. The high MSE further supports the inaccuracy of the scores.
 # Predicting Next Season's Winners
-Finally, performed linear regression on next season's participants and predicted their survival scores. Predicted the top 3 participants most likely to win next season and their predicted scores. 
+Finally, performed linear regression on next season's participants using sole survivor past data and predicted their survival scores. Predicted the top 3 participants most likely to win next season and their predicted scores. 
+Note: This project was built as part of a learning journey and is intended for demonstration only.
