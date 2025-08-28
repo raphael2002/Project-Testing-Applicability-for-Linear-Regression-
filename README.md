@@ -38,4 +38,5 @@ SurvivalScore
 Based on the linear regression analysis, it appears that the survival specialists are "not" scoring the contestants well. The low R-squared value suggests that the SurvivalScores are not consistent with the contestants' attributes. The high MSE further supports the inaccuracy of the scores.
 # Predicting Next Season's Winners
 Finally, performed linear regression on next season's participants using sole survivor past data and predicted their survival scores. Predicted the top 3 participants most likely to win next season and their predicted scores. 
+
 Note: This project was built as part of a learning journey and is intended for demonstration only.
