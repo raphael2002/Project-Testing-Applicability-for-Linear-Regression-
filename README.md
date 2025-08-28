@@ -23,7 +23,7 @@ SurvivalScore
 * Model Fitting:
   Split the data into training (80%) and testing (20%) sets.
   Fitted a linear regression model using the training data.
-  * Model Evaluation:
+* Model Evaluation:
     Evaluated the model using Mean Squared Error (MSE) and R-squared metrics.
     Conducted residual analysis to check the model assumptions.
 # Results:
